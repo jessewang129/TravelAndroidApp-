@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">"Travel "</string>
+    <string name="temperature">temperature</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="weatherAPI_key">d13e98aca58daefb91d2c4d2771961e8</string>
+    <string name="base_url_weather">http://api.openweathermap.org/data/2.5/weather?q=</string>
+    <string name="base_url_hotel">http://api.ean.com/ean-services/rs/hotel/v3/list?apiKey=</string>
+    <string name="hotelAPI_key">g9h74qrduq6h67yaa4pwkppc</string>
+    <string name="search">Search</string>
+    <string name="title_activity_hotel_search">HotelSearchActivity</string>
+    <string name="hello_world">Hello world!</string>
+    
+</resources>
